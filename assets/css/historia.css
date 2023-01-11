@@ -1,0 +1,18 @@
+body {
+    font-family: 'Andika', sans-serif;
+    background-color: #f1ae2b;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+footer div {
+    display: flex;
+    justify-content: center;
+}
+footer img {
+    margin: 20px;
+    width: 80%;
+}

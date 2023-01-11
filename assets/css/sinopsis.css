@@ -1,0 +1,21 @@
+body {
+    font-family: 'Andika', sans-serif;
+    background-color: #f1ae2b;
+}
+h1 {
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+}
+p {
+    text-align: center;
+}
+footer ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0px;
+}
+footer ul li {
+    padding: 20px;
+}
